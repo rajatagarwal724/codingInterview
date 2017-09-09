@@ -1,0 +1,15 @@
+.input-group {
+  margin: 20px 0px;
+}
+
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+/* The :first-of-type CSS pseudo-class represents the first element of its
+type among a group of sibling elements. */
+td:first-of-type {
+  height: 100px;
+  width: 225px;
+}
